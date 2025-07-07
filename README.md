@@ -20,3 +20,6 @@ See `requirements.txt`.
 ## Dataset Format
 - `timestamp`: Date-time of observation  
 - `vehicle_count`: Number of vehicles counted  
+
+## Output
+See `Output`.
