@@ -22,4 +22,4 @@ See `requirements.txt`.
 - `vehicle_count`: Number of vehicles counted  
 
 ## Output
-See `Output`.
+See `Output Folder`.
